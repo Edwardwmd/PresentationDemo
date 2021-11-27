@@ -12,6 +12,6 @@ Presentation是一种特殊的对话框，其目的是在辅助显示器上展�
 
 另外的，针对于高于Android O的版本，需要添加权限：TYPE_APPLICATION_OVERLAY
 
-![](art\ic_presentation_demo——2.png)
+![](/art/ic_presentation_demo——2.png)
 
-![](\art\ic_presentation_demo.png)
+![](/art/ic_presentation_demo.png)
